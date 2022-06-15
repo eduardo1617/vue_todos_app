@@ -2,17 +2,21 @@
 
 Este template deveria ayudarte a inicar la aplication con Vue 3 en Vite.
 
-## Recommended IDE Setup
+## IDE recomendado para la configuracion
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) 
 
-## Project Setup
+## Configuracion del proyecto
+
+Ejecuta el siguiente comando en la terminal de tu IDE
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar el proyecto
+
+Ejectura el siguiente comando en la terminal de tu IDE
 
 ```sh
 npm run dev
